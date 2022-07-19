@@ -1,5 +1,9 @@
 # vue-coingecko-crypto-app
 
+## To visit 
+```
+wiggly-jiggly-crypto.surge.sh
+
 ## Project setup
 ```
 yarn install
