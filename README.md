@@ -1,8 +1,8 @@
 # vue-coingecko-crypto-app
 
 ## To visit 
-[Click Me](wiggly-jiggly-crypto.surge.sh)
 
+<wiggly-jiggly-crypto.surge.sh>
 
 ## Project setup
 ```
