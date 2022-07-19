@@ -2,7 +2,7 @@
 
 ## To visit 
 
-<wiggly-jiggly-crypto.surge.sh>
+wiggly-jiggly-crypto.surge.sh
 
 ## Project setup
 ```
